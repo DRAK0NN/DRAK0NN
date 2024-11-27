@@ -25,7 +25,7 @@
 | Категория                    | Навыки                                             |
 | ---------------------------- | -------------------------------------------------- |
 | **Языки программирования**   | Python, C++, JavaScript (without OOP)              |
-| **Инструменты безопасности** | Wireshark, Burp Suite, Metasploit, IDA, Nmap, Nikto|
+| **Инструменты безопасности** | Wireshark, Burp Suite, Metasploit, Aircrack-ng, Nmap, Nikto|
 | **DevOps/Администрирование** | Apache, Linux                                      |
 | **Soft Skills**              | Быстро обучаюсь, командная работа, тайм-менеджмент |
 
