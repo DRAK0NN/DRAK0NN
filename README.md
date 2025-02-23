@@ -44,7 +44,7 @@
 
 ## 🌟 **Свяжитесь со мной**
 - ✉️ **Email:** redrak0nn@gmail.com
-- 🌐 **GitHub:** [github.com/DRAK0NN](https://github.com/DRAK0NN)
+- 🐈‍⬛ **GitHub:** [github.com/DRAK0NN](https://github.com/DRAK0NN)
 - 📱 **Telegram:** [DRAK0NN](https://t.me/DRAK0NN)
 
 ## 🏆 **Достижения**
@@ -61,3 +61,6 @@
 - 🌐 **Участник II Caspian Digital Forum**, посвященного IT и цифровым технологиям.  
 - 🏅 **Участик в Чемпионате России по информационной безопасности (CTF)**.
 - 💻 **Финалист турнира по алгоритмическому программированию "FONCODE 2024"**
+
+### 2024  
+- 🌐 **Призер в хакатоне VR/AR/ITHACK05**
