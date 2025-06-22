@@ -51,6 +51,9 @@
 - ✉️ **Email:** redrak0nn@gmail.com
 - 🐈‍⬛ **GitHub:** [github.com/DRAK0NN](https://github.com/DRAK0NN)
 - 📱 **Telegram:** [DRAK0NN](https://t.me/DRAK0NN)
+- 👨🏻‍💻 **Linkedin:** [DRAK0NN](www.linkedin.com/in/drak0nn)
+
+
 
 ## 🏆 **Достижения**
 ### 2023  
